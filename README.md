@@ -62,3 +62,9 @@ Releový modul využívá pin D1, který je ale současně používaný pro I2C 
 * https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
 * https://circuits4you.com/2019/01/11/esp8266-data-logging-with-real-time-graphs/
 
+### Kdyby náhodou - Jak to vypadá
+
+Web rozhranní které Wemos právě hostuje
+
+![IoT web](docs/MysUdirnaWeb.png)
+
