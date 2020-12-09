@@ -34,13 +34,6 @@ Hardware k dispozici:
 
 ## Hints
 
-### GUI
-
-Doporučuji řešení Blynk
-
-* https://blynk.io/
-* https://community.blynk.cc/t/wemos-lolin-esp8266-and-relay-misbehaving/34147/2
-
 ### DHT teplotni sensor D4
 
 Teplotni sensor DHT11 je na D4. Viz https://www.laskarduino.cz/wemos-d1-mini-dht11-shield/ resp http://www.esp8266learning.com/wemos-dh11-shield-example.php
@@ -53,13 +46,19 @@ Releový modul využívá pin D1, který je ale současně používaný pro I2C 
 * Přetypovat dle https://github.com/xoseperez/espurna/issues/420
 * Přepájet dle https://sharedinventions.com/?p=670
 
-### Web stranka s podporou AJAX
-
-Viz
-* https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
-
 ### Round-robin, Ring buffer
 
-https://github.com/Locoduino/RingBuffer
+* https://github.com/Locoduino/RingBuffer
 
+### GUI
+
+#### Blynk řešení
+
+* https://blynk.io/
+* https://community.blynk.cc/t/wemos-lolin-esp8266-and-relay-misbehaving/34147/2
+
+#### Web stranka s podporou AJAX
+
+* https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
+* https://circuits4you.com/2019/01/11/esp8266-data-logging-with-real-time-graphs/
 
