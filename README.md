@@ -55,6 +55,11 @@ Releový modul využívá pin D1, který je ale současně používaný pro I2C 
 
 ### Web stranka s podporou AJAX
 
-Viz https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
+Viz
+* https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
+
+### Round-robin, Ring buffer
+
+https://github.com/Locoduino/RingBuffer
 
 
