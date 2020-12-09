@@ -4,7 +4,7 @@
 
 * Zapoj Wemos modul USB do libovolného PC
 * Chvilku počkej
-* Koukni na https://192.168.1.1 nebo bráchovi do mobilu
+* Koukni na https://192.168.0.13 nebo bráchovi do mobilu
 
 ## Doma
 
@@ -22,7 +22,7 @@ Vem do ruky pájku.
 
 Hardware k dispozici:
 
-* LasKKit IoT MINI Starter Kit
+* LasKKit IoT MINI Starter Kit (WeMos D1 mini ESP8266 WiFi modul, WeMos D1 mini DHT11 shield + USB)
 * Modul převodníku pro termočlánek PT100, MAX31865, SPI
 * PT100 platinový teplotní senzor 0.5m, 3 vodiče
 * Wemos D1 mini 1-kanál relé shield
