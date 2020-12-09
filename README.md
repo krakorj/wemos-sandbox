@@ -53,4 +53,8 @@ Releový modul využívá pin D1, který je ale současně používaný pro I2C 
 * Přetypovat dle https://github.com/xoseperez/espurna/issues/420
 * Přepájet dle https://sharedinventions.com/?p=670
 
+### Web stranka s podporou AJAX
+
+Viz https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
+
 
