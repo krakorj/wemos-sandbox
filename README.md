@@ -6,7 +6,7 @@ Happy Wemose :)
 
 * Zapoj Wemos modul USB do libovolného PC
 * Chvilku počkej
-* Otevři mobil a koukni na https://192.168.0.13 
+* Otevři mobil a koukni na https://192.168.0.156 
 
 ## Doma
 
