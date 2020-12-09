@@ -1,10 +1,12 @@
-# Wemos udírna v0.1
+# Myšákova udírna v0.1
 
-## Pod stromečkem 
+Happy Wemose :)
+
+## U stromku
 
 * Zapoj Wemos modul USB do libovolného PC
 * Chvilku počkej
-* Koukni na https://192.168.0.13 nebo bráchovi do mobilu
+* Otevři mobil a koukni na https://192.168.0.13 
 
 ## Doma
 
@@ -39,6 +41,10 @@ Doporučuji řešení Blynk
 * https://blynk.io/
 * https://community.blynk.cc/t/wemos-lolin-esp8266-and-relay-misbehaving/34147/2
 
+### DHT teplotni sensor D4
+
+Teplotni sensor DHT11 je na D4. Viz https://www.laskarduino.cz/wemos-d1-mini-dht11-shield/ resp http://www.esp8266learning.com/wemos-dh11-shield-example.php
+
 ### Releový modul D1
 
 Releový modul využívá pin D1, který je ale současně používaný pro I2C komunikaci s displayem. 
@@ -47,4 +53,4 @@ Releový modul využívá pin D1, který je ale současně používaný pro I2C 
 * Přetypovat dle https://github.com/xoseperez/espurna/issues/420
 * Přepájet dle https://sharedinventions.com/?p=670
 
-Happy Wemose :)
+
