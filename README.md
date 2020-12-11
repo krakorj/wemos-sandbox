@@ -14,7 +14,11 @@ Naklonuj tento repositář
 
 Instaluj IDE
 
-* https://www.microsoft.com/cs-cz/p/arduino-ide/9nblggh4rsd8?ocid=badge&rtc=1&activetab=pivot:overviewtab
+* Arduino IDE - https://www.microsoft.com/cs-cz/p/arduino-ide/9nblggh4rsd8?ocid=badge&rtc=1&activetab=pivot:overviewtab
+* MS Visual Studio Code - https://code.visualstudio.com/download
+* MS VSCode extensions 
+  * Ardiuino support https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino
+  * PlatformIO https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 
 Začni na
 
