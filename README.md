@@ -56,15 +56,20 @@ Releový modul využívá pin D1, který je ale současně používaný pro I2C 
 
 ### GUI
 
-#### Blynk řešení
-
-* https://blynk.io/
-* https://community.blynk.cc/t/wemos-lolin-esp8266-and-relay-misbehaving/34147/2
-
 #### Web stranka s podporou AJAX
 
 * https://circuits4you.com/2018/02/04/esp8266-ajax-update-part-of-web-page-without-refreshing/
 * https://circuits4you.com/2019/01/11/esp8266-data-logging-with-real-time-graphs/
+
+#### Blynk
+
+* https://blynk.io/
+* http://help.blynk.cc/en/articles/512105-how-to-install-blynk-library-for-arduino-ide
+* https://community.blynk.cc/t/wemos-lolin-esp8266-and-relay-misbehaving/34147/2
+
+#### Virtuino 
+
+* https://virtuino.com/index.php/virtuino-se/getting-started/esp8266-esp32
 
 ### Arduino simulátory
 
